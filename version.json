@@ -1,9 +1,8 @@
 {
-  "apkUrl": "https://github.com/Mouc878/annur-maj/releases/download/v3.17.67/An-Nur-v3.17.67-nouveau.apk",
-  "notes": "Nouveau : les mises à jour arrivent toutes seules dans l'application\nPetites corrections pour plus de stabilité",
-  "publishedAt": "2026-11-14",
-  "sha256": "330afb10f415c296810b5ea4894b0e4813560520b42429153e5e1c6ab2782806",
-  "sizeBytes": 145459964,
-  "versionCode": 88,
-  "versionName": "3.17.67"
+  "versionCode": 91,
+  "versionName": "3.17.70",
+  "apkUrl": "https://github.com/Mouc878/annur-maj/releases/download/v3.17.70/An-Nur-v3.17.70-nouveau.apk",
+  "sha256": "b9facd851aded03641834391d29b7f5079d4625094f7dc83ba8f158095f86f22",
+  "sizeBytes": 145459963,
+  "notes": "Entraîneur de mémorisation réorganisé (flux guidé) et textes du Coran 100 % hors ligne dans l'entraîneur."
 }
