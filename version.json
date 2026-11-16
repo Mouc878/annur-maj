@@ -1,8 +1,1 @@
-{
-  "versionCode": 91,
-  "versionName": "3.17.70",
-  "apkUrl": "https://github.com/Mouc878/annur-maj/releases/download/v3.17.70/An-Nur-v3.17.70-nouveau.apk",
-  "sha256": "b9facd851aded03641834391d29b7f5079d4625094f7dc83ba8f158095f86f22",
-  "sizeBytes": 145459963,
-  "notes": "Entraîneur de mémorisation réorganisé (flux guidé) et textes du Coran 100 % hors ligne dans l'entraîneur."
-}
+{"apkUrl":"https://github.com/Mouc878/annur-maj/releases/download/v3.17.73/An-Nur-v3.17.73.apk","notes":"Lecteur Coran : la pause arrête désormais vraiment le son, y compris pendant un chargement ou un à-coup réseau, et l'état affiché reste toujours d'accord avec le son. Tous les récitants ont maintenant leur photo (103 sur 103). Le verset du jour change deux fois par jour : un verset le matin, un nouveau à midi.","sha256":"7978b1f332ca890148a44b310640211d6366a4e3c5133961fe2d14d8ed81971c","sizeBytes":169744861,"versionCode":94,"versionName":"3.17.73"}
