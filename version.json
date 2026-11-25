@@ -1,1 +1,8 @@
-{"apkUrl": "https://github.com/Mouc878/annur-maj/releases/download/v3.17.81/An-Nur-v3.17.81-nouveau.apk", "notes": "Partie Coran restaurée : écoute avec les récitateurs (dont Mohammad Faqih), texte arabe et traduction en français ou en anglais, entièrement hors-ligne ; le Mushaf reste accessible en un toucher avec le suivi de la récitation. Entraîneur : reprise exacte au verset quitté corrigée sur les longues sourates. Tutoriel simplifié, sans voix. Vos données et réglages sont conservés.", "sha256": "4cace1acc0bea9d185fb3bbe7160af43e7904c6985e7b752df4ee84deade604b", "sizeBytes": 155454975, "versionCode": 102, "versionName": "3.17.81"}
+{
+  "versionCode": 103,
+  "versionName": "3.17.82",
+  "apkUrl": "https://github.com/Mouc878/annur-maj/releases/download/v3.17.82/An-Nur-v3.17.82-nouveau.apk",
+  "sha256": "4b4c53005f4bdb88b658360415656034ada7d2d63f4d98b75b68008fa88bdf14",
+  "sizeBytes": 155352575,
+  "notes": "Nouveautés .82 : Islam Sobhi et Hazza Al-Balushi complets (114/114, suivi étendu), son des récitants relevé en haute qualité, Guide de prière entièrement refait avec lecteurs guidés par prière, retour des favoris récitants, écoute des invocations du matin, du soir, après la prière et du coucher (avec connexion), lecteur plus stable sur réseau faible et avec l'appareil photo, sons d'interface adoucis, confirmation avant de quitter."
+}
