@@ -1,8 +1,8 @@
 {
-  "versionCode": 103,
-  "versionName": "3.17.82",
-  "apkUrl": "https://github.com/Mouc878/annur-maj/releases/download/v3.17.82/An-Nur-v3.17.82-nouveau.apk",
-  "sha256": "4b4c53005f4bdb88b658360415656034ada7d2d63f4d98b75b68008fa88bdf14",
-  "sizeBytes": 155352575,
-  "notes": "Nouveautés .82 : Islam Sobhi et Hazza Al-Balushi complets (114/114, suivi étendu), son des récitants relevé en haute qualité, Guide de prière entièrement refait avec lecteurs guidés par prière, retour des favoris récitants, écoute des invocations du matin, du soir, après la prière et du coucher (avec connexion), lecteur plus stable sur réseau faible et avec l'appareil photo, sons d'interface adoucis, confirmation avant de quitter."
+  "versionCode": 104,
+  "versionName": "3.17.83",
+  "apkUrl": "https://github.com/Mouc878/annur-maj/releases/download/v3.17.83/An-Nur-v3.17.83-nouveau.apk",
+  "sha256": "e68f3cb0e9a70f1bd9fd9cf8e2ceca29f6645a59c5ac3d2f995420df4f3e52b0",
+  "sizeBytes": 155347946,
+  "notes": "Nouveautés .83 : jeûne accompagné (l'app propose les jours de jeûne — jours blancs, lundis et jeudis, Arafat, Achoura, Ramadan — et félicite après le Maghrib des jours déclarés), notifications allégées qui s'effacent après 30 minutes, horaires de prière bien visibles sur l'écran de verrouillage, Hifz plus doux (série qui se répare, objectif en minutes ou en versets, rappel du soir), police d'affichage au choix, messages d'erreur expliqués sans reproche. La mise à jour automatique intégrée est retirée : les prochaines versions arriveront par le Play Store."
 }
