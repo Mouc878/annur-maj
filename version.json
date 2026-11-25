@@ -1,8 +1,8 @@
 {
-  "versionCode": 104,
-  "versionName": "3.17.83",
-  "apkUrl": "https://github.com/Mouc878/annur-maj/releases/download/v3.17.83/An-Nur-v3.17.83-nouveau.apk",
-  "sha256": "e68f3cb0e9a70f1bd9fd9cf8e2ceca29f6645a59c5ac3d2f995420df4f3e52b0",
-  "sizeBytes": 155347946,
-  "notes": "Nouveautés .83 : jeûne accompagné (l'app propose les jours de jeûne — jours blancs, lundis et jeudis, Arafat, Achoura, Ramadan — et félicite après le Maghrib des jours déclarés), notifications allégées qui s'effacent après 30 minutes, horaires de prière bien visibles sur l'écran de verrouillage, Hifz plus doux (série qui se répare, objectif en minutes ou en versets, rappel du soir), police d'affichage au choix, messages d'erreur expliqués sans reproche. La mise à jour automatique intégrée est retirée : les prochaines versions arriveront par le Play Store."
+  "versionCode": 105,
+  "versionName": "3.17.84",
+  "apkUrl": "https://github.com/Mouc878/annur-maj/releases/download/v3.17.84/An-Nur-v3.17.84.apk",
+  "sha256": "05583e48a4ed99f20f38523802a647c54e1e5dd106e8654e4264663f486f0c6b",
+  "sizeBytes": 155388904,
+  "notes": "Nouveautés .84 : après une récitation au micro dans l'entraîneur Hifz, le récap aide à relire le verset mot par mot — les mots à vérifier et les mots ajoutés sont montrés en douceur, sans jamais accuser ; touche un mot à vérifier pour entendre Husary depuis ce mot jusqu'à la fin du verset (sourates 1 et 67 à 114). Le retour est indicatif : la prononciation fine (tajwid) n'est pas jugée, et c'est toujours toi qui dis si c'était juste ou à revoir."
 }
