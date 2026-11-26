@@ -1,8 +1,8 @@
 {
-  "versionCode": 105,
-  "versionName": "3.17.84",
-  "apkUrl": "https://github.com/Mouc878/annur-maj/releases/download/v3.17.84/An-Nur-v3.17.84.apk",
-  "sha256": "05583e48a4ed99f20f38523802a647c54e1e5dd106e8654e4264663f486f0c6b",
-  "sizeBytes": 155388904,
-  "notes": "Nouveautés .84 : après une récitation au micro dans l'entraîneur Hifz, le récap aide à relire le verset mot par mot — les mots à vérifier et les mots ajoutés sont montrés en douceur, sans jamais accuser ; touche un mot à vérifier pour entendre Husary depuis ce mot jusqu'à la fin du verset (sourates 1 et 67 à 114). Le retour est indicatif : la prononciation fine (tajwid) n'est pas jugée, et c'est toujours toi qui dis si c'était juste ou à revoir."
+  "versionCode": 106,
+  "versionName": "3.17.85",
+  "apkUrl": "https://github.com/Mouc878/annur-maj/releases/download/v3.17.85/An-Nur-v3.17.85.apk",
+  "sha256": "14635201f3298be48b243bb7c66373c23286620004d72859e151558c15e11b4f",
+  "sizeBytes": 155393002,
+  "notes": "Nouveautés .85 : l'entraîneur Hifz garde les boutons Précédent/Suivant toujours visibles, même sur les plus longs versets ; l'écran Coran ne déborde plus en français ; les textes des sourates viennent toujours des fichiers livrés avec l'app ; un prêche en streaming reprend tout seul après une coupure réseau, à l'endroit exact ; la présence des prières sur l'écran de verrouillage se met à jour dès le changement de jour ; boutons des Rituels plus grands, écran Alertes lisible en très grand texte, et petites corrections du Guide (Tarawih, Istisqa) et des sources (At-Tirmidhi 747, Citadelle 133 chapitres)."
 }
