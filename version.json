@@ -1,8 +1,8 @@
 {
-  "versionCode": 107,
-  "versionName": "3.17.86",
-  "apkUrl": "https://github.com/Mouc878/annur-maj/releases/download/v3.17.86/An-Nur-v3.17.86.apk",
-  "sha256": "6e5e34f370d47bc257193734e75efad83d6148cece92ed1cfcfca10794ffc9cf",
+  "versionCode": 108,
+  "versionName": "3.17.87",
+  "apkUrl": "https://github.com/Mouc878/annur-maj/releases/download/v3.17.87/An-Nur-v3.17.87.apk",
+  "sha256": "dff846d84cad21fb61e38885d9342d4ad899dbec4647381a7b0507b1899ecac0",
   "sizeBytes": 155393002,
-  "notes": "Nouveautés .86 : dans l’entraîneur Hifz, les boutons Précédent/Suivant restent cliquables même pendant l’écoute d’un verset ; l’exercice Reconstruction affiche enfin le verdict et le verset correct après validation ; un prêche en streaming reprend après chaque coupure réseau de la session, toujours à l’endroit exact ; le très grand texte (200 %) ne déborde plus dans l’entraîneur, les Adhkar ni la liste du Coran ; le journal de présence des prières est consultable dans les Paramètres pour diagnostiquer l’écran de verrouillage."
+  "notes": "Nouveautés .87 : dans le Hifz, ton objectif quotidien et tes réglages choisis restent en place quand le jour change — seuls les compteurs du jour repartent à zéro, comme attendu. Aucun autre changement visible ; stabilité vérifiée par la campagne de tests automatisée complète (zéro erreur sur tous les domaines exercés)."
 }
