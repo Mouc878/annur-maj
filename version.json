@@ -1,8 +1,8 @@
 {
-  "versionCode": 106,
-  "versionName": "3.17.85",
-  "apkUrl": "https://github.com/Mouc878/annur-maj/releases/download/v3.17.85/An-Nur-v3.17.85.apk",
-  "sha256": "14635201f3298be48b243bb7c66373c23286620004d72859e151558c15e11b4f",
+  "versionCode": 107,
+  "versionName": "3.17.86",
+  "apkUrl": "https://github.com/Mouc878/annur-maj/releases/download/v3.17.86/An-Nur-v3.17.86.apk",
+  "sha256": "6e5e34f370d47bc257193734e75efad83d6148cece92ed1cfcfca10794ffc9cf",
   "sizeBytes": 155393002,
-  "notes": "Nouveautés .85 : l'entraîneur Hifz garde les boutons Précédent/Suivant toujours visibles, même sur les plus longs versets ; l'écran Coran ne déborde plus en français ; les textes des sourates viennent toujours des fichiers livrés avec l'app ; un prêche en streaming reprend tout seul après une coupure réseau, à l'endroit exact ; la présence des prières sur l'écran de verrouillage se met à jour dès le changement de jour ; boutons des Rituels plus grands, écran Alertes lisible en très grand texte, et petites corrections du Guide (Tarawih, Istisqa) et des sources (At-Tirmidhi 747, Citadelle 133 chapitres)."
+  "notes": "Nouveautés .86 : dans l’entraîneur Hifz, les boutons Précédent/Suivant restent cliquables même pendant l’écoute d’un verset ; l’exercice Reconstruction affiche enfin le verdict et le verset correct après validation ; un prêche en streaming reprend après chaque coupure réseau de la session, toujours à l’endroit exact ; le très grand texte (200 %) ne déborde plus dans l’entraîneur, les Adhkar ni la liste du Coran ; le journal de présence des prières est consultable dans les Paramètres pour diagnostiquer l’écran de verrouillage."
 }
