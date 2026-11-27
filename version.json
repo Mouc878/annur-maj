@@ -1,8 +1,8 @@
 {
-  "versionCode": 108,
-  "versionName": "3.17.87",
-  "apkUrl": "https://github.com/Mouc878/annur-maj/releases/download/v3.17.87/An-Nur-v3.17.87.apk",
-  "sha256": "dff846d84cad21fb61e38885d9342d4ad899dbec4647381a7b0507b1899ecac0",
-  "sizeBytes": 155393002,
-  "notes": "Nouveautés .87 : dans le Hifz, ton objectif quotidien et tes réglages choisis restent en place quand le jour change — seuls les compteurs du jour repartent à zéro, comme attendu. Aucun autre changement visible ; stabilité vérifiée par la campagne de tests automatisée complète (zéro erreur sur tous les domaines exercés)."
+  "versionCode": 109,
+  "versionName": "3.17.88",
+  "apkUrl": "https://github.com/Mouc878/annur-maj/releases/download/v3.17.88/An-Nur-v3.17.88.apk",
+  "sha256": "228e0aea62e4d569c5dc187756039a25bbf59e1885a6746b57bf8fe3c684e32f",
+  "sizeBytes": 155401191,
+  "notes": "Nouveautés .88 : le lecteur repart tout seul si un téléchargement ancien est abîmé (il lit alors en ligne et remplace le fichier cassé) ; les alarmes de prière se ré-arment proprement, sans répétitions inutiles ; l'entraîneur Hifz n'a plus d'élément qui cache le choix de la sourate ; dans le Coran, le haut des pages du Mushaf et de l'index est entièrement visible ; les icônes du Guide sont harmonisées ; et une série de textes tronqués ou recouverts dans toute l'app est corrigée. Stabilité vérifiée par la campagne de tests automatisée complète (zéro erreur sur tous les domaines exercés)."
 }
