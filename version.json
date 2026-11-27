@@ -1,8 +1,8 @@
 {
-  "versionCode": 109,
-  "versionName": "3.17.88",
-  "apkUrl": "https://github.com/Mouc878/annur-maj/releases/download/v3.17.88/An-Nur-v3.17.88.apk",
-  "sha256": "228e0aea62e4d569c5dc187756039a25bbf59e1885a6746b57bf8fe3c684e32f",
-  "sizeBytes": 155401191,
-  "notes": "Nouveautés .88 : le lecteur repart tout seul si un téléchargement ancien est abîmé (il lit alors en ligne et remplace le fichier cassé) ; les alarmes de prière se ré-arment proprement, sans répétitions inutiles ; l'entraîneur Hifz n'a plus d'élément qui cache le choix de la sourate ; dans le Coran, le haut des pages du Mushaf et de l'index est entièrement visible ; les icônes du Guide sont harmonisées ; et une série de textes tronqués ou recouverts dans toute l'app est corrigée. Stabilité vérifiée par la campagne de tests automatisée complète (zéro erreur sur tous les domaines exercés)."
+  "versionCode": 110,
+  "versionName": "3.17.89",
+  "apkUrl": "https://github.com/Mouc878/annur-maj/releases/download/v3.17.89/An-Nur-v3.17.89.apk",
+  "sha256": "d7417f8be34e1fe0f78e7bce26a3d39bb7f68854be46638f29a95652c278eced",
+  "sizeBytes": 155401194,
+  "notes": "Nouveautés .89 : le lecteur ne coupe plus tout seul — les à-coups réseau brefs ne s'additionnent plus en coupure, une coupure isolée ne rend plus les suivantes définitives, la lecture repart après un appel ou une photo de moins de 10 minutes (votre propre pause, elle, reste toujours définitive), et les prêches reprennent après l'adhan comme le Coran. Stabilité vérifiée par la campagne de tests automatisée complète sur le fichier signé (zéro erreur sur tous les domaines exercés)."
 }
