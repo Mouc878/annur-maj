@@ -1,8 +1,8 @@
 {
-  "versionCode": 111,
-  "versionName": "3.17.90",
-  "apkUrl": "https://github.com/Mouc878/annur-maj/releases/download/v3.17.90/An-Nur-v3.17.90.apk",
-  "sha256": "aeb22f0498446a842e4aa3a6ad741ae9541d4b8b3691867928494c35b96ecf8c",
-  "sizeBytes": 155515880,
-  "notes": "Nouveautés .90 : le Guide de la prière est corrigé et complété — illustrations fidèles pour chaque posture (inclinaison, redressement, Tashahhud, Qunut debout, salutation debout de la Janaza, transition entre Rak'ahs, ablutions du nez), parcours découpés écran par écran (une posture par écran), et lecteurs complétés : Duha jusqu'à 8 Rak'ahs, Tahajjud et Tarawih avec la clôture Witr parcourue, Witr au choix en 1, 3 ou 5 Rak'ahs, Rawatib étiquetées, glorifications du Tasbih comptées (300), double station du Kusuf, Takbeerat de l'Aïd dans le bon ordre. Vérifié par la campagne de tests automatisée complète sur le fichier signé (zéro erreur, 8 224 contrôles)."
+  "versionCode": 112,
+  "versionName": "3.17.91",
+  "apkUrl": "https://github.com/Mouc878/annur-maj/releases/download/v3.17.91/An-Nur-v3.17.91.apk",
+  "sha256": "905a29379369accef22fc016ab8c2daa03d62cbe54363c4709b3e32dd19d75dc",
+  "sizeBytes": 155605992,
+  "notes": "Nouveautés .91 : les Prêches grandissent et s'organisent — 3 493 prêches au catalogue (+1 318) : les cours de Youssef Abou Anas en séries complètes et ordonnées (Al-Wajîz 123 épisodes, Jugements Fondamentaux, Lumière de la Foi, Tafsîr Saadi…), le Tafsîr Juz 'Amma de Plesel (72 épisodes), les séries de Sidati, et le fonds de Cheikh Kishk audité puis intégré (+534). La section Prêches est réorganisée : séries de cours groupées avec reprise de l'épisode en cours, pages des prédicateurs complètes, recherche qui retrouve une série même sans les accents, et la reprise d'écoute désormais pour tout le monde. Le badge Premium des Outils ne change plus de forme. Vérifié par la campagne de tests automatisée complète sur le fichier signé (zéro erreur, 8 224 contrôles)."
 }
